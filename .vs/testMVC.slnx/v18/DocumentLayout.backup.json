@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\testMVC\\",
+  "WorkspaceRootPath": "D:\\Git Repo\\testMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|C:\\Users\\User\\source\\repos\\testMVC\\testmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|c:\\users\\user\\source\\repos\\testmvc\\testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|C:\\Users\\User\\source\\repos\\testMVC\\testmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|c:\\users\\user\\source\\repos\\testmvc\\testmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|C:\\Users\\User\\source\\repos\\testMVC\\testmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|C:\\Users\\User\\source\\repos\\testMVC\\testmvc\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|C:\\Users\\User\\source\\repos\\testMVC\\testmvc\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|d:\\git repo\\testmvc\\testmvc\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\controllers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|D:\\Git Repo\\testMVC\\testmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86C58E9-31F7-4411-8E50-300B9A960158}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "testMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "testMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\Customer.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\Customer.cs",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\Customer.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T08:57:33.646Z",
+              "WhenOpened": "2026-01-13T03:50:52.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "testMVC\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "testMVC\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:24:19.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Random.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Views\\Movies\\Random.cshtml",
-              "RelativeDocumentMoniker": "testMVC\\Views\\Movies\\Random.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Views\\Movies\\Random.cshtml",
-              "RelativeToolTip": "testMVC\\Views\\Movies\\Random.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T03:32:09.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "testMVC\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "testMVC\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T03:28:46.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Movies.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Models\\Movies.cs",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "testMVC\\Models\\Movies.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Models\\Movies.cs",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Models\\Movies.cs",
               "RelativeToolTip": "testMVC\\Models\\Movies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T03:28:06.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "testMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "testMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T03:25:59.002Z",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T03:28:46.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "testMVC\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\testMVC\\testMVC\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "testMVC\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T03:25:25.552Z",
+              "DocumentIndex": 1,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:47:23.583Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Movies\\Random.cshtml*",
+              "RelativeToolTip": "testMVC\\Views\\Movies\\Random.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T03:32:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:46:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:57:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Git Repo\\testMVC\\testMVC\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "testMVC\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Git Repo\\testMVC\\testMVC\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "testMVC\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:24:19.739Z"
             }
           ]
         }
