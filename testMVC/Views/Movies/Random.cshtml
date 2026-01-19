@@ -20,15 +20,23 @@
 }
 else
 {
-<div class="row">
-    @foreach (var customer in Model.Customers)
-    {
+<table class="table table-bordered table-hover">
+    <thead>
         <tr>
-            <td>@customer.Name</td>
-            @*<td>@Html.ActionLink(customer.Name,"","", new (id=customer.Id),null)</td>*@
+            <th>Customers</th>
         </tr>
-    }
-</div>   
+    </thead>
+    <tbody>
+        @foreach ( var customer in Model.Customers)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink(customer.Name, "Details", "Customers", new {id=customer.Id},null )
+                        </td>
+                    </tr>
+                }
+    </tbody>
+</table> 
 }
 
 
